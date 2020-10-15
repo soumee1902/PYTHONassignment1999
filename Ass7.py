@@ -76,6 +76,7 @@ for name in namepoll:
 
 
 #8.7
+people = []
 person={'first_name': 'Pallavi',
 'last_name': 'Prajakta',
 'age': '22',
@@ -102,6 +103,7 @@ people.append(person)
 
 
 #8.8
+pets = []
 doggo={'animal': 'dog',
 'owner': 'Kate'}
 pets.append(doggo)
@@ -112,9 +114,9 @@ fatty={'animal': 'rabbit',
 'owner': 'Rony'}
 pets.append(fatty)
 
-for name in pets:
-    print(name.title()+"pet details are as follows")
-    for animal in 
+# for name in pets:
+#     print(name.title()+"pet details are as follows")
+#     for animal in 
 
     
 
